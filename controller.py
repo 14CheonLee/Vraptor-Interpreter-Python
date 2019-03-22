@@ -1,12 +1,3 @@
-"""
- Created by IntelliJ IDEA.
- Project: Vraptor-Interpreter
- ===========================================
- User: ByeongGil Jung
- Date: 2019-03-16
- Time: 오후 5:50
-"""
-
 import data as d
 
 import os
